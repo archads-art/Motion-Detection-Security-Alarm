@@ -3,14 +3,14 @@ To design a motion detection security alarm system using Arduino that can sense 
 
 Components:
 Arduino Uno R3
-Breadboard 400 Tie Points
-Buzzer 9v-12v Active
-Programming Cable for Arduino Uno & Mega
-PIR Motion Sensor
-Jumper Wires
-Red Leds
-Resistors-220 Ohm
-Software- Arduino IDE 2.3.6
+,Breadboard 400 Tie Points
+,Buzzer 9v-12v Active
+,Programming Cable for Arduino Uno & Mega
+,PIR Motion Sensor
+,Jumper Wires
+,Red Leds
+,Resistors-220 Ohm
+,Software- Arduino IDE 2.3.6
 
 Working: 
 The PIR sensor detects motion by sensing changes in infrared radiation. When motion is detected,
