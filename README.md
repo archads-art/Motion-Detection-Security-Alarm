@@ -1,3 +1,19 @@
 # Motion-Detection-Security-Alarm
 To design a motion detection security alarm system using Arduino that can sense human movement and activate an alarm or light as a security alert. The system aims to enhance home and office safety by providing a simple, low-cost, and reliable intrusion detection method.
-<img width="658" height="636" alt="image" src="https://github.com/user-attachments/assets/bda9cffa-daad-42fa-9f5f-8018b12464e4" />
+
+Components:
+Arduino Uno R3
+Breadboard 400 Tie Points
+Buzzer 9v-12v Active
+Programming Cable for Arduino Uno & Mega
+PIR Motion Sensor
+Jumper Wires
+Red Leds
+Resistors-220 Ohm
+Software- Arduino IDE 2.3.6
+
+Working: 
+The PIR sensor detects motion by sensing changes in infrared radiation. When motion is detected,
+it sends a HIGH signal to the Arduino. The Arduino then turns ON the buzzer and LED to alert the
+user. After a short delay, both turn OFF, and the system returns to standby mode, ready to detect
+motion again.
