@@ -17,3 +17,8 @@ The PIR sensor detects motion by sensing changes in infrared radiation. When mot
 it sends a HIGH signal to the Arduino. The Arduino then turns ON the buzzer and LED to alert the
 user. After a short delay, both turn OFF, and the system returns to standby mode, ready to detect
 motion again.
+
+
+<img width="1018" height="574" alt="image" src="https://github.com/user-attachments/assets/d9ffe43b-98bd-4249-a1e0-816e6207f030" />
+
+
