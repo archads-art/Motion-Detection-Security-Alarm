@@ -30,14 +30,19 @@ LED Lights - Rs 1
 Buzzer - Rs 27
 Standard USB A-to-B programming cable - Rs 35
 Jumper wires(male-male and female-male) - Rs 16
-
 Total Cost: Rs 580
 
 Technical failures and it reasons:
-False Alarms: The system has a high risk of false alarms as one in ten system alerts occur even when no motion is detected. This reduces the reliability of the system 
+False Alarms: The system has a high risk of false alarms as one in ten system alerts occur even when no motion is detected. Reason: High motion sensitivity to non-issue factors such as wind, swaying trees, curtains etc.
 
-Reason: High motion sensitivity to non-issue factors such as wind, swaying trees, curtains etc.
+Outcomes:
+The system successfully detects motion within the PIR sensor’s range (approximately 6–7 meters).
+When motion is detected, both buzzer and LED turn ON for a few seconds alerting users that there has been motion detected.
+The circuit returns to standby mode after the delay.
+The project can be used for security or automatic light control.
 
+
+<img width="1833" height="325" alt="image" src="https://github.com/user-attachments/assets/d096822d-cf46-4170-a2d3-65c74168e3ee" />
 
 
 <img width="2349" height="147" alt="image" src="https://github.com/user-attachments/assets/dc2a8252-2074-4e9c-bd64-3f2d37c7259a" />
