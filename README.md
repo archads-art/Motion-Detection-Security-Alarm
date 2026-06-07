@@ -42,10 +42,6 @@ The circuit returns to standby mode after the delay.
 The project can be used for security or automatic light control.
 
 
-<img width="1833" height="325" alt="image" src="https://github.com/user-attachments/assets/d096822d-cf46-4170-a2d3-65c74168e3ee" />
-
-
-<img width="2349" height="147" alt="image" src="https://github.com/user-attachments/assets/dc2a8252-2074-4e9c-bd64-3f2d37c7259a" />
 
 <img width="796" height="454" alt="image" src="https://github.com/user-attachments/assets/fbd678cf-06a7-4d07-a247-882fcd390df9" />
 
